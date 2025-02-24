@@ -13,7 +13,7 @@ Financial dataset (included in the .pbix file)
 
 # Usage
 Clone the repository:
-https://github.com/MuhammadSalmanS/Financial_Data_Analysis/edit/main/README.md
+(https://github.com/MuhammadSalmanS/Financial_Data_Analysis)
 Open financial_data_Analysis.pbix in Power BI.
 Explore the pre-built reports and customize as needed.
 
